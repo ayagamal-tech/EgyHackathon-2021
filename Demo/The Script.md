@@ -1,4 +1,4 @@
-# The Script of the Demo 
+                                                                # The Script of the Demo 
 
 We decided to create an application with the goal of facilitating teachers' interaction with technology due to the problems they have been facing with the spread of the coronavirus.
 There is no direct communication between teachers and students, so teachers can know the students' status, whether they are not focused or distracted and so on.
